@@ -6,5 +6,17 @@ baseurl: '/dl-fall2024' # the subpath of your site, e.g. /blog
 url: 'https://fum-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  CS Dept.:
+    - 'https://fumcs.github.io'
+  Mahmood Amintoosi:
+    - 'https://mamintoosi.github.io'
+  Class Repository on GitHub:
+    - 'https://github.com/fum-cs/dl-fall2024'
+footer_content:
