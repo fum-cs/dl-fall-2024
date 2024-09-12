@@ -5,8 +5,9 @@ nav_order: 1
 tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
-{: .mb-0}
+
 Deep Learning Course
+{: .mb-0}
 
 Ferdowsi University of Mashhad, Fall 2024 (1403 SH)
 {: .mb-2 .fs-6 .text-grey-dk-000 }
