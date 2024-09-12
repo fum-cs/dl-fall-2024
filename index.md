@@ -6,10 +6,10 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 ---
 
 
-Deep Learning Course
+Ferdowsi University of Mashhad, Fall 2024 (1403 SH)
 {: .mb-0}
 
-Ferdowsi University of Mashhad, Fall 2024 (1403 SH)
+Deep Learning Course
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 
