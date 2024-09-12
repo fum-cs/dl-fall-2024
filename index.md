@@ -5,11 +5,11 @@ nav_order: 1
 tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
-{: .mb-2 }
+{: .mb-0}
 Deep Learning Course
 
 Ferdowsi University of Mashhad, Fall 2024 (1403 SH)
-{: .mb-0 .fs-6 .text-grey-dk-000 }
+{: .mb-2 .fs-6 .text-grey-dk-000 }
 
 
 <div>
@@ -43,7 +43,7 @@ Here, Learning is done by Doing :)
 
 ## Class time and Location
 
-Saturday 10:00-11:30 and Monday 8:00-9:30* (Fall 2024). 
+Saturday 10:00-11:30 and Monday 8:00-9:30* (Fall 2024), Room XX.
 
 
 ## References
@@ -70,7 +70,7 @@ This course uses various resources to teach the concepts and applications of dee
 * Seminars - 10%
 * Final – 40%
 
-## Academic Honor Code:
+## Academic Honor Code
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
 We will follow the standard of Faculty of Mathematical Sciences approach: 
