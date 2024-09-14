@@ -51,8 +51,9 @@ Saturday 10:00-11:30 and Monday 8:00-9:30* (Fall 2024), Room XX.
 
 This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
 
-
 - [**Learn PyTorch for Deep Learning: Zero to Mastery book**](https://www.learnpytorch.io/)
+- [Neural Networks, FUM](https://fum-cs.github.io/neural-networks)
+- [Deep Learning Course, FUM, Fall 2023](https://fum-cs.github.io/dl)
 - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
    by François Chollet, Second Edition, 2021
    * [Jupyter notebooks for the code samples of the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
