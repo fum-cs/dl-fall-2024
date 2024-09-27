@@ -1,9 +1,11 @@
 ---
-title: Home
+title: Lectures
 layout: home
 nav_order: 2
 tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
+
+# Lectures
 
 ## 1403/07/07
 
