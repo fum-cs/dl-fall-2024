@@ -34,6 +34,7 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 
 ### How to update weights with BCE?
 
+* [MLE, See Example 1.3 of PSU](https://online.stat.psu.edu/stat415/lesson/1/1.2)
 * [CS229 Lecture notes, by Andrew Ng](https://www.dropbox.com/scl/fi/2rleml0djetrr6awau5ry/cs229-notes1-LogisticRegression.pdf?rlkey=bwowx5yxx6am49wkjmw7b2mhi&st=9hqecs53&dl=0)
 
 
