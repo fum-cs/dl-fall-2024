@@ -54,7 +54,7 @@ This course uses various resources to teach the concepts and applications of dee
 - [**Learn PyTorch for Deep Learning: Zero to Mastery book**](https://www.learnpytorch.io/)
 - [Neural Networks, FUM](https://fum-cs.github.io/neural-networks)
 - [Deep Learning Course, FUM, Fall 2023](https://fum-cs.github.io/dl-fall-2023)
-  * [Convolution Slides](https://mamintoosi.github.io/slides/topics/DL-TF/Chapter8-Introductio-to-Deep-learning-for-Computer-Vision.html)
+  * [Convolution Slides](https://mamintoosi-cs.github.io/slides/topics/DL-TF/Chapter8-Introductio-to-Deep-learning-for-Computer-Vision.html)
 - [Polo Club of Data Science](https://poloclub.github.io/)
 - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
    by François Chollet, Second Edition, 2021

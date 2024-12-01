@@ -21,7 +21,7 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 
 
 **Further Reading**{: .label .label-yellow }
-* [Algorithm X](https://mamintoosi.github.io/slides/topics/DLX/DLX.html)
+* [Algorithm X](https://mamintoosi-cs.github.io/slides/topics/DLX/DLX.html)
 
 
 ## 1403/08
